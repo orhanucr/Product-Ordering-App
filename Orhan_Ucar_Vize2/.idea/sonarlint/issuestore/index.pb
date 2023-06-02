@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+o
+?app/src/main/java/com/example/orhan_ucar_vize2/model/Product.kt,e\c\ec319ae0375cf1cfbb7115db1caffcb6648e253d
+}
+Mapp/src/main/java/com/example/orhan_ucar_vize2/services/ApiClientSingleton.kt,7\d\7dcecea2b0a1b4df37f269743512bf6e1ae741e5
+q
+Aapp/src/main/java/com/example/orhan_ucar_vize2/activity/Detail.kt,2\3\233c6021d71ec29a60175a671c866d0b41b9fc21
+w
+Gapp/src/main/java/com/example/orhan_ucar_vize2/services/DummyService.kt,f\c\fc7298e8360bcd803b50b85326d0bf9d66c43154
+y
+Iapp/src/main/java/com/example/orhan_ucar_vize2/adapter/ProductsAdapter.kt,5\a\5a00684175d5433e14b73b8c922437affdc190e2
+z
+Japp/src/main/java/com/example/orhan_ucar_vize2/services/ProductResponse.kt,d\5\d5141d77b26a92f04e5aafd8c55888309b0e4c10
+v
+Fapp/src/main/java/com/example/orhan_ucar_vize2/activity/ProductList.kt,6\9\69e1d8d938849670bb8e4f121adbe559b81a64fb
+w
+Gapp/src/main/java/com/example/orhan_ucar_vize2/activity/MainActivity.kt,d\5\d5b7bb1c55b49d6f170999f5234c8d4bd292a3f3
