@@ -7,7 +7,7 @@ Bu örnek projede, uygulamaya kullanıcı kayıt olabilir ve kayıtlı olan kull
 ## Kütüphaneler ve Özellikler
 - Retrofit
 - Glide
-- CustomAdapte
+- CustomAdapter
 - ListView
 <h2>İzinler</h2>
 
